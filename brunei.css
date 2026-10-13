@@ -1,0 +1,189 @@
+
+ .t1{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+    
+}
+.t2{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+   
+    border-radius:15px;
+    padding: 50px;
+}
+.t3{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+}
+.t4{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+}
+.t5{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+}
+.t6{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+}
+.t7{
+    border: 2px solid goldenrod;
+    background-color:lightyellow;
+    color:black;
+    border-radius:15px;
+    padding: 50px;
+    
+}
+
+    
+   
+p{
+    text-indent:5%;
+}
+
+
+.text{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+}
+
+.image{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:lightyellow;
+    border-radius:15px;
+}
+.text1{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+     padding: 50px 0;
+
+
+}
+
+.image1{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+.text2{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image2{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:  lightyellow;
+    border-radius:15px;
+}
+.text3{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image3{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:  lightyellow;
+    border-radius:15px;
+}
+.text4{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image4{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+.text5{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image5{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:  lightyellow;
+    border-radius:15px;
+}
+.text6{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+.image6{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+::-webkit-scrollbar{
+    width:10px;
+
+}
+
+ ::-webkit-scrollbar-thumb{
+
+    background:linear-gradient(transparent,rgb(131, 122, 122));
+    border-radius:6px;
+ }
+ ::-webkit-scrollbar-thumb:hover{
+    background:linear-gradient(transparent,goldenrod);
+ }

@@ -1,0 +1,240 @@
+*{margin:0;
+    padding: 0;
+    font-family: BlinkMacSystemFont;}
+   
+    
+   .content {
+       width: 100%;
+       height: 800px;
+       background-color: lightyellow;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        text-align: center;
+        
+   }   
+   
+   .content h1{
+      
+       padding: 50px;
+       font-size: 50px;
+      
+       text-align: center;
+       
+       color: yellow;
+       text-shadow: 1px 1px 1px #330707,
+       1px 1px 1px #330707,
+       1px 2px 1px #330707,
+       1px 3px 1px #330707,
+       1px 4px 1px #330707,
+       1px 5px 1px #330707,
+       1px 6px 1px #330707,
+       1px 7px 1px #330707,
+       1px 8px 1px #330707,
+       1px 9px 1px #330707,
+       1px 10px 1px #330707,
+       1px 20px 40px rgba(34, 21, 9, 0.685);
+   
+   }
+   
+   /* Button */
+   .content button{
+       width: 150px;
+       height: 60px;
+       text-align: center;
+       padding: 15px 0px;
+       font-size: 15px;
+       background:transparent; 
+   
+       border:5px outset red; 
+       border-radius:30px; 
+       outline:none; 
+       margin-top: 30px; 
+       margin-left: 50px;
+       box-shadow: 5px 5px rgb(145, 127, 127);
+       margin-top: 30px;  
+       position: relative;
+       overflow:hidden;
+   
+   }
+   
+   /* span{ */
+       /* background: red; */
+       /* height: 100%;
+       width: 100%;
+       border-radius: 25px;
+       position: absolute;
+       left:0;
+       bottom: 0;
+       z-index: -1;
+       transition: 0.5s;
+   }
+   
+   .content button:hover span{
+       width:100%;
+   
+   } */
+   
+   button:hover{
+       border: 5px solid red;
+       background-color: white;
+   }
+   .content button a{
+       text-decoration: none;
+       color: red;
+   }
+   
+   /* Button */
+   
+   /* Country Images */
+   
+   .Thai{
+       border:1px solid gray;
+       margin-left: 110px;
+       margin-right:20px;
+       width:200px;
+       height:300px;
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("Images/Thailand/thailandBG.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   .Japan{
+       border:1px solid gray;
+       margin-right:20px;
+       width:200px;
+       height:300px;
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("Images/japanpic.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   
+   .Malaysia{
+       border:1px solid gray;
+       margin-right:20px;
+       width:200px;
+       height:300px;
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("Malaysia-Kuala-Lumpur.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   
+   .Brunie{
+       border:1px solid gray;
+       margin-right:20px;
+       width:200px;
+       height:300px;
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("Images/brunei.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   
+   .Cambodia{
+       border:1px solid gray;
+       margin-right:20px;
+       width:200px;
+       height:300px;
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("cambodiaimg.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   .Bhutan{
+       border:1px solid gray;
+       margin-right:10px;
+       width:200px;
+       height:300px;
+      
+       display: inline-block;
+       border-radius:10px;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       cursor: pointer;
+       transition: 0.3s;
+      
+       background-image: url("Images/Bhutan/BhutanBG.jpg");
+       background-position: center;
+       background-size: cover;
+       float: left;
+   }
+   
+   .Thai:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   
+   .Japan:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   
+   .Malaysia:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   
+   .Brunie:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   
+   .Cambodia:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   
+   .Bhutan:hover{
+       color:rgba(58, 30, 5, 0.932);
+       transform: translateY(-10px);
+       box-shadow: 5px 5px 10px rgb(73, 10, 10);
+   }
+   a:link, a:visited{
+    color: #000;
+    text-decoration: none;
+    
+
+   }
+   

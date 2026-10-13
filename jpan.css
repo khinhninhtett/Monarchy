@@ -1,0 +1,180 @@
+
+
+ .t1{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}.t2{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t3{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t4{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t5{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t6{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t7{
+    border: 2px solid goldenrod;
+    
+    border-radius:15px;
+    padding: 50px;
+    background-color:rgba(200, 200, 62,0.9);
+    color:black;
+    
+    
+}
+
+    
+   
+p{
+    text-indent:5%;
+}
+
+
+.text{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+}
+
+.image{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:lightyellow;
+    border-radius:15px;
+}
+.text1{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image1{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+.text2{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image2{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:lightyellow;
+    border-radius:15px;
+}
+.text3{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image3{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+.text4{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image4{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+    border-radius:15px;
+}
+
+
+.image5{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: rgba(216, 216, 47,0.7);
+    border-radius:15px;
+}
+
+::-webkit-scrollbar{
+    width:10px;
+
+}
+
+ ::-webkit-scrollbar-thumb{
+
+    background:linear-gradient(transparent,rgb(131, 122, 122));
+    border-radius:6px;
+ }
+ ::-webkit-scrollbar-thumb:hover{
+    background:linear-gradient(transparent,goldenrod);
+ }

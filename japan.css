@@ -1,0 +1,147 @@
+
+
+ .t1{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}.t2{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t3{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t4{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t5{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t6{
+    background-color:lightyellow;
+    color:black;
+    
+    
+}
+.t7{
+    background-color:rgba(200, 200, 62,0.9);
+    color:black;
+    
+    
+}
+
+    
+   
+p{
+    text-indent:5%;
+}
+
+
+.text{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+}
+
+.image{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:lightyellow;
+}
+.text1{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image1{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+   
+}
+.text2{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image2{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color:lightyellow;
+}
+.text3{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image3{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+}
+.text4{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width:100%;
+    height: 500px;
+    padding: 50px 0;
+
+
+}
+
+.image4{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: lightyellow;
+}
+
+
+.image5{
+    border: 2px solid goldenrod;
+    padding-left: 15px;
+    background-color: rgba(216, 216, 47,0.7);
+}
+
+::-webkit-scrollbar{
+    width:10px;
+
+}
+
+ ::-webkit-scrollbar-thumb{
+
+    background:linear-gradient(transparent,rgb(131, 122, 122));
+    border-radius:6px;
+ }
+ ::-webkit-scrollbar-thumb:hover{
+    background:linear-gradient(transparent,goldenrod);
+ }
